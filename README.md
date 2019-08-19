@@ -1,6 +1,6 @@
-# WooCommerce Sales Tax Plugin by TaxJar
+# WooCommerce Sales Tax Plugin
 
-Save hours every month by putting your sales tax on autopilot. Automated multi-state sales tax calculation, collection, and filing from [TaxJar](https://www.taxjar.com).
+Save hours every month by putting your sales tax on autopilot. Automated multi-state sales tax calculation, collection, and filing from [TaxJar](https://www.taxjar.com). Edited for flexible tax options for [Buy Cannabis Online UK](https://www.buycannabisonline.uk)
 
 To get started, check out our [TaxJar for WooCommerce](https://docs.woocommerce.com/document/taxjar/) plugin guide!
 
